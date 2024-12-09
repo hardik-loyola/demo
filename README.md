@@ -1,4 +1,4 @@
-# Demo (Final prokect):
+# Demo (Final project):
 Instructions:
 
     Download the .exe file. 
